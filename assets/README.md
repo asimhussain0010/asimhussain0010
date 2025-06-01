@@ -10,8 +10,9 @@
   </a>
 </p>
   
-<img src="https://https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqN2I0b3J5a2FnN3A0M202dWUwYWg2aHFqNG5vcmhyamw0b3Y5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqN2I0b3J5a2FnN3A0M202dWUwYWg2aHFqNG5vcmhyamw0b3Y5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🎯 Passionate about Agentic AI, MLOps, ERP, and automation
   - 🤝 Excited to collaborate on AI, LLM, and SaaS tools
