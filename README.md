@@ -1,4 +1,4 @@
- <h1 align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Hey! I'm MOHAMMED ASIM HUSSAIN</h1>
+ <h1 align="center"><img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/Hi.gif" width="29px"> Hey! I'm MOHAMMED ASIM HUSSAIN</h1>
 <h3 align="center">Accelerating Growth with Intelligent Automation and DevOps</h3>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asimhussain0010&label=Profile%20views&color=0e75b6&style=flat" alt="asimhussain0010" />  
