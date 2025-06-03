@@ -16,7 +16,7 @@
   - 🎯 Passionate about Agentic AI, MLOps, ERP, and automation
   - 🤝 Excited to collaborate on AI, LLM, and SaaS tools
   - 🔁 Automating CI/CD pipelines using DevOps and AI workflows
-  - 🛠 Creating end-to-end Odoo ERP for real business needs
+  - 🛠 Creating end-to-end ERP's for real business needs
   - 💬 Ask me about AI, ERP, Linux, or solving your toughest IT puzzle
   - ⚡ Fun Fact: I automate things others say can’t be automated 🚀
 
