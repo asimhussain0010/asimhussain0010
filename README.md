@@ -5,7 +5,7 @@
   <a href="https://github.com/asimhussain0010?tab=followers">
     <img src="https://img.shields.io/github/followers/asimhussain0010?label=Follow&style=social&color=blue" alt="GitHub Followers">
   </a>
-  <a href="[https://twitter.com/mrasimhussain](https://linkedin.com/in/mohd-asim-hussain)">
+  <a href="https://twitter.com/mrasimhussain,https://linkedin.com/in/mohd-asim-hussain">
     <img src="https://img.shields.io/twitter/follow/mrasimhussain?style=social" alt="Twitter Follow">
   </a>
 </p>
