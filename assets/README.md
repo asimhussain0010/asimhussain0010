@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/asimhussain0010?label=Follow&style=social&color=blue" alt="GitHub Followers">
   </a>
   <a href="https://linkedin.com/in/mohd-asim-hussain">
-    <img src="https://img.shields.io/twitter/follow/mrasimhussain?style=social" alt="Twitter Follow">
+    <img src="https://img.shields.io/linkedin/follow/mohd-asim-hussain?style=social" alt="linkedin Follow">
   </a>
 </p>
   
