@@ -8,6 +8,13 @@
   <a href="https://twitter.com/_mrasimhussain_">
     <img src="https://img.shields.io/twitter/follow/_mrasimhussain_?style=social" alt="Twitter Follow">
   </a>
+    <a href="https://wakatime.com/@bubner">
+      <img
+        src="https://wakatime.com/badge/user/617e18c7-273e-4a36-be73-e7a0d8b31d1b.svg"
+        alt="wakatime"
+        height="24px"
+      />
+    </a>
 </p>
   
 <img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="266" height="auto"/><img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/giphy%20(1).gif" alt="side Gif" align="right" width="200" height="auto"/> 
