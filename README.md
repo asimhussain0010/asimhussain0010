@@ -56,12 +56,12 @@
 
 ### 💡 Key Insight
 > *“True success goes beyond solving problems, it sparks innovation and drives transformation.”*  
-> -*Asim, architect of clean, scalable business solutions.*
+> - *Asim, architect of clean, scalable business solutions.*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Appreciate+your+visit+!;💡+Building+smart+solutions+daily...;🚀+Creating+with+passion+and+purpose!;🧠+Transforming+ideas+into+real-world+impact+since+2019." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer&text=Let's%20Connect%20%7C%20Keep%20Learning%20%7C%20Stay%20Curious%20🚀&fontColor=ffffff&fontSize=22&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
 </p>
