@@ -10,7 +10,7 @@
   </a>
     <a href="https://wakatime.com/@bubner">
       <img
-        src="https://wakatime.com/badge/user/617e18c7-273e-4a36-be73-e7a0d8b31d1b.svg"
+        src="https://wakatime.com/badge/user/92b86f01-6d3e-4a7b-a185-d518b5f437a8.svg"
         alt="wakatime"
         height="24px"
       />
