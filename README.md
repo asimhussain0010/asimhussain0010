@@ -8,7 +8,7 @@
   <a href="https://twitter.com/_mrasimhussain_">
     <img src="https://img.shields.io/twitter/follow/_mrasimhussain_?style=social" alt="Twitter Follow">
   </a>
-    <a href="https://wakatime.com/@bubner">
+    <a href="https://wakatime.com/@asimhussain01">
       <img
         src="https://wakatime.com/badge/user/92b86f01-6d3e-4a7b-a185-d518b5f437a8.svg"
         alt="wakatime"
