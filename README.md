@@ -54,9 +54,9 @@
 
 </div>
 
-### 💡 Dev Insight
-> *“True success goes beyond solving problems — it sparks innovation and drives transformation.”*  
-> — *Asim, architect of clean, scalable business solutions.*
+### 💡 Key Insight
+> *“True success goes beyond solving problems, it sparks innovation and drives transformation.”*  
+> -*Asim, architect of clean, scalable business solutions.*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Appreciate+your+visit+!;💡+Building+smart+solutions+daily...;🚀+Creating+with+passion+and+purpose!;🧠+Transforming+ideas+into+real-world+impact+since+2019." alt="Typing SVG" />
