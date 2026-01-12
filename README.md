@@ -1,5 +1,5 @@
  <h1 align="center"><img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/Hi.gif" width="29px"> Hey! I'm MOHAMMED ASIM HUSSAIN</h1>
-<h3 align="center">Accelerating Growth with Intelligent Automation and DevOps</h3>
+<h3 align="center">Transforming Industries with Software Development, Automation & DevOps Solutions</h3>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asimhussain0010&label=Profile%20views&color=0e75b6&style=flat" alt="asimhussain0010" />  
   <a href="https://github.com/asimhussain0010?tab=followers">
@@ -46,22 +46,21 @@
 
 
  📊 **GitHub Analytics**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimhussain0010&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimhussain0010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="180" />
-  <img src="https://asim-streak-stats.vercel.app?user=asimhussain0010&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&currStreakLabel=8B949E&dates=8B949E&stroke=8B949E" height="180" />
+ 
+ ![](https://raw.githubusercontent.com/asimhussain0010/github-stats-transparent/output/generated/overview.svg)
+ ![](https://raw.githubusercontent.com/asimhussain0010/github-stats-transparent/output/generated/languages.svg)
+ <img src="https://asim-streak-stats.vercel.app?user=asimhussain0010&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&currStreakLabel=8B949E&dates=8B949E&stroke=8B949E" height="160" />
 
 </div>
 
 ### 💡 Key Insight
-> *“True success goes beyond solving problems, it sparks innovation and drives transformation.”*  
-> - *Asim, architect of clean, scalable business solutions.*
+> *“True success goes beyond solving problems, it sparks innovation and drives transformation.”*
+>- *Asim, architect of clean, scalable business solutions.*
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Appreciate+your+visit+!;💡+Building+smart+solutions+daily...;🚀+Creating+with+passion+and+purpose!;🧠+Transforming+ideas+into+real-world+impact+since+2019." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
-</p>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect%20%7C%20Keep%20Learning%20%7C%20Stay%20Curious%20🚀&fontColor=ffffff&fontSize=22&animation=twinkling" />
+</div>
