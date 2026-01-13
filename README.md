@@ -27,7 +27,7 @@
   - ⚡ Fun Fact: I automate things others say can’t be automated 🚀
 
 
-  #### 👨🏻‍💻🛠️ Languages and Tools <br />
+### 👨🏻‍💻🛠️ Languages and Tools <br />
 
 <code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
@@ -52,7 +52,7 @@
 <code><img height="40" alt="Chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></code>
 
 
- 📊 **GitHub Analytics**
+ ### 📊 **GitHub Analytics**
 <div align="center">
  
  ![](https://raw.githubusercontent.com/asimhussain0010/github-stats-transparent/output/generated/overview.svg)
@@ -62,8 +62,8 @@
 </div>
 
 ### 💡 Key Insight
-> *“True success goes beyond solving problems, it sparks innovation and drives transformation.”*
->- *Asim, architect of clean, scalable business solutions.*
+> "True success goes beyond solving problems, it sparks innovation and drives transformation."  
+> *- Asim, architect of clean, scalable business solutions.*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Appreciate+your+visit+!;💡+Building+smart+solutions+daily...;🚀+Creating+with+passion+and+purpose!;🧠+Transforming+ideas+into+real-world+impact+since+2019." alt="Typing SVG" />
