@@ -16,8 +16,9 @@
       />
     </a>
 </p>
-  
-<img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="266" height="auto"/><img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/giphy%20(1).gif" alt="side Gif" align="right" width="200" height="auto"/> 
+
+<img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/dev-working_rounded.gif" alt="giphy" align="right" width="400" height="auto"/>
+<!-- <img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="266" height="auto"/><img src="https://github.com/asimhussain0010/asimhussain0010/blob/master/assets/giphy%20(1).gif" alt="side Gif" align="right" width="200" height="auto"/>  -->
   
   - 🎯 Passionate about Agentic AI, MLOps, ERP, and automation
   - 🤝 Excited to collaborate on AI, LLM, and SaaS tools
